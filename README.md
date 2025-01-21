@@ -8,3 +8,5 @@ exemplo: ./gerador.exe teste.pbm 40170725 4 3 50
 
 comando do leitor.exe: nomeArquivo.pbm
 exemplo: teste.pbm
+
+Vídeo: https://www.youtube.com/watch?v=0PTQy7QBRLY

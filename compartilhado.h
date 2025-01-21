@@ -1,3 +1,4 @@
+// Aluno: Jerônimo Rafael Bezerra Filho
 #ifndef COMPARTILHADO_H
 #define COMPARTILHADO_H
 
